@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+task-manager.json
+transaction_history.txt
+patient_record.txt
